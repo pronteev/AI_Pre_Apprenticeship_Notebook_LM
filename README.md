@@ -97,7 +97,7 @@ What skills am I missing for a SOC Analyst Tier 1 role? Compare my resume with t
 
 **What the AI helped me understand:** My IT support background gives me a strong foundation in Active Directory, MFA, networking, and ticketing. The main gaps are hands-on experience with SIEM, EDR, firewalls, IDS/IPS, email security tools, and basic scripting. I also learned that completing Security+ should be a top priority, and that I need hands-on security projects to show these skills on my resume.
 
-![Career guidance example](screenshots/career-guidance.png)
+![Career guidance example](screenshoots:/career-guidance.png)
 
 ### Example 2: Mock Interview
 
@@ -114,7 +114,7 @@ Feedback: **Strong:** You provided an accurate technical definition showing that
 
 **What I learned:** When SOC Compass asked me to explain the difference between IDS and IPS, the feedback confirmed that my definitions and Tier 1 workflow were accurate. It also showed that I need a practical lab example and should name specific log sources, such as firewall logs, host event logs, and SIEM alerts. Next time, I will connect my technical answers to hands-on work and explain what data I would check during triage.
 
-![Mock interview example](screenshots/mock-interview.png)
+![Mock interview example](screenshoots:/mock-interview.png)
 
 ### Example 3: Career Action Plan
 
@@ -130,7 +130,7 @@ Show each step before the final plan.
 
 **My next steps:** I will start with daily Security+ review to stay on track for my December 2026 exam goal and begin the TryHackMe SOC Level 1 path to practice SIEM and endpoint monitoring. I will then add basic Python practice and outline a Security Projects section for my resume using my VirtualBox lab.
 
-![Career plan example](screenshots/career-plan.png)
+![Career plan example](screenshoots:/career-plan.png)
 
 ## 6. Testing and Improvements
 
